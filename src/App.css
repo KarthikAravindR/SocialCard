@@ -1,7 +1,11 @@
 .App {
-  text-align: center;
+  font-family: sans-serif;
+  background-color: #001f2b;
 }
-
+p {
+  margin: 0;
+}
+/* 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +39,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
